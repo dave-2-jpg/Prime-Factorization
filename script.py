@@ -1,5 +1,5 @@
 min_value = 1
-max_value = 50
+max_value = 5000
 
 #calculate prime number
 def is_prime(n):
